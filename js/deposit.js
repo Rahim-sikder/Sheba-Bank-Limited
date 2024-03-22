@@ -31,11 +31,3 @@ document.getElementById('btn-deposit').addEventListener('click',function(){
       
    });
 
-//  // step5: get balance current total
-// const balanceTotalElement = document.getElementById('balance-total');
-// const previousBalanceTotalString =balanceTotalElement.innerText;
-// const previousBalanceTotal = parseFloat(previousBalanceTotalString);
-// // step6: calcuulate current balance
-// const currentBalanceTotal = previousBalanceTotal + newDepositAmount;
-// // set the current balance 
-//   balanceTotalElement.innerText=currentBalanceTotal;
